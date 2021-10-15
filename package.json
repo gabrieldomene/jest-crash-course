@@ -1,0 +1,13 @@
+{
+  "name": "jest-crash-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "jest": "^27.0.6"
+  }
+}
